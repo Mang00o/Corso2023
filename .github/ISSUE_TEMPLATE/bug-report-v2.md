@@ -1,5 +1,5 @@
 ---
-name: Bug report V2
+name: Custom Bug Report
 about: Create a report to help us improve, please
 title: ''
 labels: bug
@@ -9,8 +9,6 @@ assignees: Mang00o
 
 **Describe the bug**
 A clear and concise description of what the bug is.
-
-MIA MODIFICA
 
 **To Reproduce**
 Steps to reproduce the behavior:
